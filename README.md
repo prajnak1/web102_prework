@@ -22,7 +22,9 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features: <img src='/Users/prajnakarmaker/Desktop/GIF(2).gif' title='GIF(2)' width='' alt='Video Walkthrough' />
+Here's a walkthrough of implemented features: 
+
+<img src='/Users/prajnakarmaker/Desktop/GIF(2).gif' title='GIF(2)' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  LiceCap
