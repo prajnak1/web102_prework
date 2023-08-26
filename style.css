@@ -8,6 +8,14 @@ body {
 #tentacles {
     width: 50px;
 }
+.navbar{
+    margin-top: 1%;
+    text-align: left;
+    border:none;
+    font-size: 30px;
+}
+/* Add a red background color to navbar links on hover */
+
 
 .header {
     display: flex;
@@ -19,17 +27,39 @@ body {
     margin-top: -10px;
 }
 
+.topnav {
+    width: 100%;
+    background-color: lightblue;
+  }
+  
+  .topnav input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+  }
+  
+
 .stats-container {
     display: flex;
+    align-items: center;
+    
+}
+.stats-container:hover{
+    box-shadow:  0 30px lightblue;
+    cursor: pointer;
 }
 
-.stats-card {
+.stats-card{
     background-color: #a8b0bc;
     border-radius: 7px;
     padding: 1%;
     margin: 1%;
     width: 100%;
     text-align: center;
+    
 }
 
 #num-contributions, #total-raised, #num-games {
